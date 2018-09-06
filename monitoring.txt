@@ -1,3 +1,4 @@
 #az ebbe a fájlba kerülő IP címeket a rendszer monitorozza a firewall.log-ba
 
-
+#onadozo.web200.hu
+185.43.205.78
