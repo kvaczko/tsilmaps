@@ -1,4 +1,0 @@
-#passthrough list
-
-31.46.32.20           #kardos attila epg vpn
-37.220.134.4          #mail.vimpex.hu
