@@ -1,0 +1,4 @@
+#passthrough list
+
+31.46.32.20	#kardos attila epg vpn
+
