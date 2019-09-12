@@ -4,5 +4,5 @@
 37.220.134.4		#mail.vimpex.hu
 91.198.174.192  #wikipedia.org
 94.130.139.143  #consilisdata.hu
-
+95.216.37.223   #zoldhid.hu
 
