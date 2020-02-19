@@ -11,3 +11,4 @@
 50.31.44.1    #catawiki email
 212.24.186.126  #mail.csabacast.hu
 95.216.4.237  #ncore.cc
+185.32.78.52 #csabacast voip kifele
