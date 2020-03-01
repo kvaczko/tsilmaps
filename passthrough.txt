@@ -19,3 +19,5 @@
 167.89.16.125 #o3.email.catawiki.nl
 168.245.40.3  #o4.email.catawiki.nl
 91.230.171.0/24 #catawiki email
+224.0.0.251 #mDNS
+255.255.255.255 #uPnP
