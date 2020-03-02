@@ -21,3 +21,4 @@
 91.230.171.0/24 #catawiki email
 224.0.0.251 #mDNS
 255.255.255.255 #uPnP
+37.220.211.160/28 #csabacast new isp
