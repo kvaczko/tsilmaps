@@ -23,4 +23,5 @@
 255.255.255.255 #uPnP
 37.220.211.160/28 #csabacast new isp
 23.227.38.65  #eustore.ifixit.com
-95.131.48.101 #mx.zerris.hu - laptop.hu
+95.131.48.101 #mx.zerris.hu - laptop.hu mail
+185.43.206.166 #frontend.webdoc.hu - tablet.hu mail
