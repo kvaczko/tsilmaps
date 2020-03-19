@@ -25,3 +25,5 @@
 23.227.38.65  #eustore.ifixit.com
 95.131.48.101 #mx.zerris.hu - laptop.hu mail
 185.43.206.166 #frontend.webdoc.hu - tablet.hu mail
+132.145.231.115  #ifm.com mail1 - csabacast
+132.145.231.114  #ifm.com mail2 - csabacast
