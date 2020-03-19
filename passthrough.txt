@@ -27,3 +27,4 @@
 185.43.206.166 #frontend.webdoc.hu - tablet.hu mail
 132.145.231.115  #ifm.com mail1 - csabacast
 132.145.231.114  #ifm.com mail2 - csabacast
+62.77.208.234 #dlms.hu mail - csabacast
