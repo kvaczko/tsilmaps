@@ -1,31 +1,31 @@
 #passthrough list
 
-31.46.32.20		#kardos attila epg vpn
-37.220.134.4		#mail.vimpex.hu
-91.198.174.192  #wikipedia.org
-94.130.139.143  #consilisdata.hu
-95.216.37.223   #zoldhid.hu
-148.251.72.24   #mail.zoldhid.hu
-95.216.15.92  #t.ncore.sh ncore tracker
-116.203.77.251 #zoldhidtarsulas.hu email
-50.31.44.1    #catawiki email
-212.24.186.126  #mail.csabacast.hu
-95.216.4.237  #ncore.cc
-185.32.78.52 #csabacast voip kifele
-185.43.206.134 #szamlakozpont.hu email
-176.63.86.30  #vk balatonalmadi publikus cim
-173.193.133.141 #o1.email.catawiki.nl
-50.31.44.1  #o2.email.catawiki.nl
-167.89.16.125 #o3.email.catawiki.nl
-168.245.40.3  #o4.email.catawiki.nl
-91.230.171.0/24 #catawiki email
-224.0.0.251 #mDNS
-255.255.255.255 #uPnP
-37.220.211.160/28 #csabacast new isp
-23.227.38.65  #eustore.ifixit.com
-95.131.48.101 #mx.zerris.hu - laptop.hu mail
-185.43.206.166 #frontend.webdoc.hu - tablet.hu mail
-132.145.231.115  #ifm.com mail1 - csabacast
-132.145.231.114  #ifm.com mail2 - csabacast
-62.77.208.234 #dlms.hu mail - csabacast
-255.255.255.255 #szab6 upnp discovery
+31.46.32.20		            #kardos attila epg vpn
+37.220.134.4		          #mail.vimpex.hu
+91.198.174.192            #wikipedia.org
+94.130.139.143            #consilisdata.hu
+95.216.37.223             #zoldhid.hu - nc
+148.251.72.24             #mail.zoldhid.hu - nc
+95.216.15.92              #t.ncore.sh ncore tracker
+116.203.77.251            #zoldhidtarsulas.hu email
+50.31.44.1                #catawiki email
+95.216.4.237              #ncore.cc
+185.32.78.52              #csabacast voip kifele
+185.43.206.134            #szamlakozpont.hu email
+176.63.86.30              #vk balatonalmadi publikus cim
+173.193.133.141           #o1.email.catawiki.nl
+50.31.44.1                #o2.email.catawiki.nl
+167.89.16.125             #o3.email.catawiki.nl
+168.245.40.3              #o4.email.catawiki.nl
+91.230.171.0/24           #catawiki email
+224.0.0.251               #mDNS
+255.255.255.255           #uPnP
+37.220.211.160/28         #csabacast new isp
+23.227.38.65              #eustore.ifixit.com
+95.131.48.101             #mx.zerris.hu - laptop.hu mail
+185.43.206.166            #frontend.webdoc.hu - tablet.hu mail
+132.145.231.115           #ifm.com mail1 - csabacast
+132.145.231.114           #ifm.com mail2 - csabacast
+62.77.208.234             #dlms.hu mail - csabacast
+185.43.205.52             #dlms.hu mail - csabacast
+255.255.255.255           #szab6 upnp discovery
