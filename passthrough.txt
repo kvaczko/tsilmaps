@@ -28,4 +28,4 @@
 132.145.231.114           #ifm.com mail2 - csabacast
 62.77.208.234             #dlms.hu mail - csabacast
 185.43.205.52             #dlms.hu mail - csabacast
-255.255.255.255           #szab6 upnp discovery
+255.255.255.255           #upnp discovery - szab6
