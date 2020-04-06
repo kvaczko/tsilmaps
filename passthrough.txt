@@ -30,3 +30,4 @@
 185.43.205.52             #dlms.hu mail - csabacast
 255.255.255.255           #upnp discovery - szab6
 94.130.76.170             #grscripts.com
+185.33.54.15              #gohuman.hu - csabacast
