@@ -32,3 +32,4 @@
 94.130.76.170             #grscripts.com
 185.33.54.15              #gohuman.hu - csabacast
 95.217.129.79             #almadikert.hu - szab6
+95.217.64.181             #download.nextcloud.com
