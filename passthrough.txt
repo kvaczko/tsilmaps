@@ -34,3 +34,10 @@
 95.217.129.79             #almadikert.hu - szab6
 95.217.64.181             #download.nextcloud.com
 95.217.53.153             #nextcloud.com
+95.217.53.146             #help.nextcloud.com
+95.217.53.145             #cloud.nextcloud.com
+95.217.53.147             #stats.nextcloud.com
+95.217.53.149             #scan.nextcloud.com
+95.217.53.150             #crm.nextcloud.com
+95.217.53.151             #support.nextcloud.com
+
