@@ -6,3 +6,4 @@ happybag.hu
 .icu
 .xyz
 hetideal.eu
+diszkont-plaza.eu
