@@ -40,4 +40,5 @@
 95.217.53.149             #scan.nextcloud.com
 95.217.53.150             #crm.nextcloud.com
 95.217.53.151             #support.nextcloud.com
+80.77.123.12              #jure.hu
 
