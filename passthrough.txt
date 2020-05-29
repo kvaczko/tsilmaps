@@ -43,3 +43,4 @@
 80.77.123.12              #jure.hu
 84.206.101.70             #emir.gov.hu
 92.118.24.60              #mail.olva.hu
+207.148.248.143           #mjrnet.com - virtual flipper
