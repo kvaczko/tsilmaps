@@ -44,3 +44,6 @@
 84.206.101.70             #emir.gov.hu
 92.118.24.60              #mail.olva.hu
 207.148.248.143           #mjrnet.com - virtual flipper
+84.2.35.162               #mx.web-server.hu - csabacast alublock.hu
+84.2.35.177               #mx-2.web-server.hu - csabacast alublock.hu
+84.2.35.181               #mx-1.web-server.hu - csabacast alublock.hu
