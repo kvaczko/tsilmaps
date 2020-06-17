@@ -49,4 +49,9 @@
 84.2.35.181               #mx-1.web-server.hu - csabacast alublock.hu
 68.232.133.0/24           #bmw.de - csabacast
 68.232.139.0/24           #bmw.de - csabacast
-
+162.243.69.230            #ids-hungary.com - csabacast
+94.125.177.21             #ids-hungary.com - csabacast
+5.56.33.71                #ids-hungary.com - csabacast
+91.82.237.115             #ids-hungary.com - csabacast
+195.201.61.195            #ids-hungary.com - csabacast
+                                                
