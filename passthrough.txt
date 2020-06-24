@@ -54,4 +54,8 @@
 5.56.33.71                #ids-hungary.com - csabacast
 91.82.237.115             #ids-hungary.com - csabacast
 195.201.61.195            #ids-hungary.com - csabacast
-                                                
+104.17.127.0/24           #boschrexroth.com - csabacast                                                
+104.17.128.0/24           #boschrexroth.com - csabacast                                                
+104.17.129.0/24           #boschrexroth.com - csabacast                                                
+104.17.130.0/24           #boschrexroth.com - csabacast                                                
+104.17.131.0/24           #boschrexroth.com - csabacast                                                
