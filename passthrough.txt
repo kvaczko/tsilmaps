@@ -59,5 +59,4 @@
 104.17.129.0/24           #boschrexroth.com - csabacast                                                
 104.17.130.0/24           #boschrexroth.com - csabacast                                                
 104.17.131.0/24           #boschrexroth.com - csabacast                                                
-84.2.35.185               #nt-service.hu
-84.2.35.186               #nt-service.hu
+84.2.35.0/24              #nt-service.hu
