@@ -60,3 +60,4 @@
 104.17.130.0/24           #boschrexroth.com - csabacast                                                
 104.17.131.0/24           #boschrexroth.com - csabacast                                                
 84.2.35.0/24              #nt-service.hu
+45.87.112.2               #kardos attila epg->pataki
