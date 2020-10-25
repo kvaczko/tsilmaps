@@ -64,4 +64,5 @@
 81.0.104.4                #opten.hu - csabacast
 195.228.112.193           #otpbank.hu
 134.209.235.252           #automotivexpo.hu
+188.142.216.103           #vkohotel
 
