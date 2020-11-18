@@ -65,4 +65,4 @@
 195.228.112.193           #otpbank.hu
 134.209.235.252           #automotivexpo.hu
 188.142.216.103           #vkohotel
-
+188.142.234.241           #komplexfaktor.chickenkiller.com
