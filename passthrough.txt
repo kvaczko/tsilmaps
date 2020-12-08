@@ -67,3 +67,4 @@
 188.142.216.103           #vkohotel
 188.142.234.241           #komplexfaktor.chickenkiller.com
 185.181.176.19            #alza.hu
+84.3.150.222              #bona home
