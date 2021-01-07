@@ -63,6 +63,7 @@
 45.87.112.2               #kardos attila epg->pataki
 81.0.104.4                #opten.hu - csabacast
 195.228.112.193           #otpbank.hu
+195.56.187.26             #simple.hu
 134.209.235.252           #automotivexpo.hu
 188.142.216.103           #vkohotel
 188.142.234.241           #komplexfaktor.chickenkiller.com
