@@ -71,3 +71,4 @@
 84.3.150.222              #bona home
 87.97.29.71               #invitel vdsl
 176.63.26.28              #ihasz zsolt upc kabeltv
+217.160.0.222             #www.muellerhome.com - csabacast
