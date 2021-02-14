@@ -33,6 +33,7 @@
 185.33.54.15              #gohuman.hu - csabacast
 95.217.129.79             #almadikert.hu - szab6
 95.217.64.181             #download.nextcloud.com
+217.27.218.103            #mail2.bjc.hu
 95.217.53.153             #nextcloud.com
 95.217.53.146             #help.nextcloud.com
 95.217.53.145             #cloud.nextcloud.com
