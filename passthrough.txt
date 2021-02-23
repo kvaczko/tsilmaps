@@ -74,3 +74,4 @@
 176.63.26.28              #ihasz zsolt upc kabeltv
 217.160.0.222             #www.muellerhome.com - csabacast
 84.53.161.241             #www.muellerhome.com - csabacast
+52.113.194.132            #teams.microsoft.com
