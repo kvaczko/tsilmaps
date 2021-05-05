@@ -81,3 +81,4 @@
 54.174.234.75             #smartmeter csabacast
 54.158.196.143            #smartmeter csabacast
 193.200.188.0/24          #ekol.tr - csabacast
+195.228.76.0/24           #magyar telekom fix ip - csabacast
