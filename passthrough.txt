@@ -80,3 +80,4 @@
 25.40.222.116             #máté minecraft
 54.174.234.75             #smartmeter csabacast
 54.158.196.143            #smartmeter csabacast
+193.200.188.0/24          #ekol.tr - csabacast
