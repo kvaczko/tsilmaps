@@ -85,4 +85,5 @@
 195.228.122.202           #unix tradeline - krisped
 195.228.122.203           #unix tradeline - krisped
 195.228.122.204           #unix tradeline - krisped
+91.82.87.243              #unix tradeline - krisped
 91.82.87.247              #unix tradeline - krisped
