@@ -88,3 +88,4 @@
 91.82.87.243              #unix tradeline - krisped
 91.82.87.247              #unix tradeline - krisped
 185.33.54.10              #ilexsystems.com - csabacast
+95.217.163.36             #mnasz.hu - krisped
