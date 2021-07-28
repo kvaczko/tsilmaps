@@ -89,4 +89,5 @@
 91.82.87.247              #unix tradeline - krisped
 185.33.54.10              #ilexsystems.com - csabacast
 95.217.163.36             #mnasz.hu - krisped
-5.182.155.11              hoffmann-group.com
+5.182.155.11              #hoffmann-group.com - csabacast
+195.56.182.221            #ver.hu email - nc
