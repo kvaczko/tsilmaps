@@ -91,3 +91,7 @@
 95.217.163.36             #mnasz.hu - krisped
 5.182.155.11              #hoffmann-group.com - csabacast
 195.56.182.221            #ver.hu email - nc
+195.145.254.85            #E.85 vegpont SW megmunkalo - csabacast
+195.145.254.86            #E.85 vegpont SW megmunkalo - csabacast
+195.145.254.87            #E.85 vegpont SW megmunkalo - csabacast
+
