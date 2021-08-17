@@ -94,4 +94,4 @@
 195.145.254.85            #E.85 vegpont SW megmunkalo - csabacast
 195.145.254.86            #E.85 vegpont SW megmunkalo - csabacast
 195.145.254.87            #E.85 vegpont SW megmunkalo - csabacast
-
+104.47.10.36              #buhlergroup.com mail - csabacast
