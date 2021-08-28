@@ -96,3 +96,5 @@
 195.145.254.87            #E.85 vegpont SW megmunkalo - csabacast
 104.47.10.36              #buhlergroup.com mail - csabacast
 18.185.152.51             #supplier-portal.daimler.com
+8.8.8.8                   #google dns
+8.8.4.4                   #google dns
