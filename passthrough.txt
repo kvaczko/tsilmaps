@@ -98,3 +98,4 @@
 18.185.152.51             #supplier-portal.daimler.com
 8.8.8.8                   #google dns
 8.8.4.4                   #google dns
+212.92.23.172             #nyolckor.hu - csabacast
