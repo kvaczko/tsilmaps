@@ -1,5 +1,6 @@
 #passthrough list
 
+217.27.218.98/27          #milky opublikus tartomány
 31.46.32.20               #kardos attila epg vpn
 37.220.134.4              #mail.vimpex.hu
 91.198.174.192            #wikipedia.org
@@ -12,7 +13,7 @@
 95.216.4.237              #ncore.cc
 185.32.78.52              #csabacast voip kifele
 185.43.206.134            #szamlakozpont.hu email
-176.63.86.30              #vk balatonalmadi publikus cim
+78.139.38.115             #vk balatonalmadi publikus cim
 173.193.133.141           #o1.email.catawiki.nl
 50.31.44.1                #o2.email.catawiki.nl
 167.89.16.125             #o3.email.catawiki.nl
