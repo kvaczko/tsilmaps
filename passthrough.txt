@@ -107,3 +107,4 @@
 25.79.103.50              #multiplayer - mate
 95.174.9.207              #maicopresse.com email - csabacast
 195.70.32.130             #mail.interware.hu - csabacast
+84.2.38.67                #edisys.hu mail - csabacast
