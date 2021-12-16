@@ -108,4 +108,4 @@
 95.174.9.207              #maicopresse.com email - csabacast
 195.70.32.130             #mail.interware.hu - csabacast
 84.2.38.67                #edisys.hu mail - csabacast
-66.98.60.242              #hetzmannbéla nyaral 2021 12 16
+66.98.60.242              #hetzmannbéla nyaral 2021 12 16.
