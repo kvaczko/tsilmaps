@@ -114,3 +114,4 @@
 211.231.108.175           #mx2.hanmail.net - csabacast
 211.231.108.47            #mx3.hanmail.net - csabacast
 211.231.108.176           #mx4.hanmail.net - csabacast
+217.65.97.118             #mtech.hu - csabacast
