@@ -117,3 +117,4 @@
 217.65.97.118             #mtech.hu - csabacast
 185.183.28.161            #lyreco.com - vaczkor
 185.132.180.206           #lyreco.com - vaczkor
+132.145.234.156           #trimet.de - csabacast
