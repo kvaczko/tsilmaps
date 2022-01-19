@@ -15,7 +15,7 @@
 95.216.4.237              #ncore.cc
 185.32.78.52              #csabacast voip kifele
 185.43.206.134            #szamlakozpont.hu email
-176.63.86.206             #vk balatonalmadi publikus cim
+176.63.86.171             #vk balatonalmadi publikus cim
 173.193.133.141           #o1.email.catawiki.nl
 50.31.44.1                #o2.email.catawiki.nl
 167.89.16.125             #o3.email.catawiki.nl
