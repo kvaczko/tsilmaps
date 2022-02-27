@@ -118,3 +118,4 @@
 185.183.28.161            #lyreco.com - vaczkor
 185.132.180.206           #lyreco.com - vaczkor
 132.145.234.156           #trimet.de - csabacast
+188.114.97.0/24           #cloudflare - vaczkor
