@@ -119,3 +119,4 @@
 185.132.180.206           #lyreco.com - vaczkor
 132.145.234.156           #trimet.de - csabacast
 188.114.97.0/24           #cloudflare - vaczkor
+89.221.212.46             #mail2.mlconsortio.sk - csabacast   / a mail.mlconsortio.sk-rol bejonnek a levelek, igy ez csak egy proba
