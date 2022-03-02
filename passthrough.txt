@@ -120,3 +120,11 @@
 132.145.234.156           #trimet.de - csabacast
 188.114.97.0/24           #cloudflare - vaczkor
 89.221.212.46             #mail2.mlconsortio.sk - csabacast   / a mail.mlconsortio.sk-rol bejonnek a levelek, igy ez csak egy proba
+41.74.193.201             #gettyimages.hu (za-smtp-inbound-1.mimecast.co.za) - sar and partners
+41.74.193.210             #gettyimages.hu (za-smtp-inbound-1.mimecast.co.za) - sar and partners
+41.74.197.210             #gettyimages.hu (za-smtp-inbound-1.mimecast.co.za) - sar and partners
+41.74.197.201             #gettyimages.hu (za-smtp-inbound-1.mimecast.co.za) - sar and partners
+41.74.197.210             #gettyimages.hu (za-smtp-inbound-2.mimecast.co.za) - sar and partners
+41.74.197.201             #gettyimages.hu (za-smtp-inbound-2.mimecast.co.za) - sar and partners
+41.74.193.210             #gettyimages.hu (za-smtp-inbound-2.mimecast.co.za) - sar and partners
+41.74.193.201             #gettyimages.hu (za-smtp-inbound-2.mimecast.co.za) - sar and partners
