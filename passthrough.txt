@@ -128,4 +128,4 @@
 41.74.197.201             #gettyimages.hu (za-smtp-inbound-2.mimecast.co.za) - sar and partners
 41.74.193.210             #gettyimages.hu (za-smtp-inbound-2.mimecast.co.za) - sar and partners
 41.74.193.201             #gettyimages.hu (za-smtp-inbound-2.mimecast.co.za) - sar and partners
-81.17.17.254              #hu1lib.org - vaczkó
+185.51.188.49             #mail.eurofaktor.hu - nc
