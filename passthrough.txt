@@ -131,3 +131,4 @@
 185.51.188.49             #mail.eurofaktor.hu - nc
 194.33.69.21              #www.hasznaltauto.hu 1 - vaczkó
 194.33.69.22              #www.hasznaltauto.hu 2 - vaczkó
+52.71.57.184              #vigore.com email - csabacast
