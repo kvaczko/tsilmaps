@@ -133,3 +133,5 @@
 194.33.69.22              #www.hasznaltauto.hu 2 - vaczkó
 52.71.57.184              #vigore.com email - csabacast
 77.73.250.88              #www.wallstabe-schneider.de - csabacast
+80.120.163.17             #mail.haberkorn.hu - csabacast
+80.120.127.103            #mail2.haberkorn.hu - csabacast
