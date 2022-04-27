@@ -129,8 +129,7 @@
 41.74.193.210             #gettyimages.hu (za-smtp-inbound-2.mimecast.co.za) - sar and partners
 41.74.193.201             #gettyimages.hu (za-smtp-inbound-2.mimecast.co.za) - sar and partners
 185.51.188.49             #mail.eurofaktor.hu - nc
-194.33.69.21              #www.hasznaltauto.hu 1 - vaczkó
-194.33.69.22              #www.hasznaltauto.hu 2 - vaczkó
+194.33.69.0/24            #www.hasznaltauto.hu - vaczkó
 52.71.57.184              #vigore.com email - csabacast
 77.73.250.88              #www.wallstabe-schneider.de - csabacast
 80.120.163.17             #mail.haberkorn.hu - csabacast
