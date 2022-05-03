@@ -137,3 +137,4 @@
 79.172.252.24             #csorba.eu - nc
 213.181.208.49            #hungexpo.hu - csabacast
 52.202.69.186             #content.lansweeper.com
+107.23.131.158            #certpanel.com - csabacast
