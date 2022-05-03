@@ -136,4 +136,4 @@
 80.120.127.103            #mail2.haberkorn.hu - csabacast
 79.172.252.24             #csorba.eu - nc
 213.181.208.49            #hungexpo.hu - csabacast
-46.227.63.218
+52.202.69.186             #content.lansweeper.com
