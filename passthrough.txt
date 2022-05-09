@@ -139,3 +139,4 @@
 52.202.69.186             #content.lansweeper.com
 107.23.131.158            #certpanel.com - csabacast
 184.51.8.158              #euromoney.qualtrics.com - csabacast
+95.217.53.155             #nextcloud.com
