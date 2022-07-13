@@ -141,3 +141,6 @@
 184.51.8.158              #euromoney.qualtrics.com - csabacast
 95.217.53.155             #nextcloud.com
 84.3.150.222              #bóna otthon
+213.150.228.40            #magna.com - csabacast
+216.118.208.40            #magna.com - csabacast
+216.118.222.247           #magna.com - csabacast
