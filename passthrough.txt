@@ -144,3 +144,4 @@
 213.150.228.40            #magna.com - csabacast
 216.118.208.40            #magna.com - csabacast
 216.118.222.247           #magna.com - csabacast
+185.111.89.131            #tisztaenergiak.hu - vaczkor
