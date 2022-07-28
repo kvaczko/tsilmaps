@@ -145,3 +145,4 @@
 216.118.208.40            #magna.com - csabacast
 216.118.222.247           #magna.com - csabacast
 185.111.89.131            #tisztaenergiak.hu - vaczkor
+54.240.4.7                #hqsc.hu - a4-7.smtp-out.eu-west-1.amazonses.com
