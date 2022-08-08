@@ -146,4 +146,4 @@
 216.118.222.247           #magna.com - csabacast
 185.111.89.131            #tisztaenergiak.hu - vaczkor
 54.240.4.7                #hqsc.hu COS - a4-7.smtp-out.eu-west-1.amazonses.com
-94.199.178.130            #hqsc.hu
+94.199.178.130            #hqsc.hu COS - mail.trinity-soft.hu
