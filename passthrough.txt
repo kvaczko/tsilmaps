@@ -147,3 +147,10 @@
 185.111.89.131            #tisztaenergiak.hu - vaczkor
 54.240.4.7                #hqsc.hu COS - a4-7.smtp-out.eu-west-1.amazonses.com
 94.199.178.130            #hqsc.hu COS - mail.trinity-soft.hu
+52.84.106.45              #eu-west-1.amazonses.com
+52.84.106.129             #eu-west-1.amazonses.com
+52.84.106.14              #eu-west-1.amazonses.com
+52.84.106.42              #eu-west-1.amazonses.com
+34.250.195.198            #feedback-smtp.eu-west-1.amazonses.com
+18.200.42.95              #feedback-smtp.eu-west-1.amazonses.com
+34.243.41.226             #feedback-smtp.eu-west-1.amazonses.com
