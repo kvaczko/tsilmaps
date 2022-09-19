@@ -158,3 +158,4 @@
 84.1.124.22               #pannon2005
 185.51.188.49             #tefourtynine.tarhely.eu - nc
 185.51.188.35             #tarhely.eu mail - nc, pannon
+188.157.181.40            #tarhely.eu mail - nc, pannon
