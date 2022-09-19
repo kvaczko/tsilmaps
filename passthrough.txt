@@ -157,3 +157,4 @@
 34.243.41.226             #feedback-smtp.eu-west-1.amazonses.com
 84.1.124.22               #pannon2005
 185.51.188.49             #tefourtynine.tarhely.eu - nc
+185.51.188.35             #tarhely.eu mail - nc, pannon
