@@ -162,3 +162,4 @@
 188.208.227.0             #tarhely.eu mail - nc, pannon
 18.200.42.95              #feedback-smtp.eu-west-1.amazonses.com
 18.200.42.95              #feedback-smtp.eu-west-1.amazonses.com
+185.51.191.58             #tarhely.eu mail - molnár petra ügyvédi iroda
