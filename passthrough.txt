@@ -165,3 +165,4 @@
 185.51.191.58             #tarhely.eu mail - molnár petra ügyvédi iroda
 45.12.40.52               #wayquest - krisped
 38.242.146.157            #wayquest - krisped
+185.51.191.45             #mail.expokonto.hu - BJC konyveles
