@@ -166,3 +166,4 @@
 45.12.40.52               #wayquest - krisped
 38.242.146.157            #wayquest - krisped
 185.51.191.45             #mail.expokonto.hu - BJC konyveles
+169.53.39.226             #zwcad licenc weboldal - csabacast
