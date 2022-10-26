@@ -170,3 +170,7 @@
 183.62.6.132              #zwcad licenc weboldal - csabacast
 104.47.6.36               #alumetal-pl.mail.protection.outlook.com
 104.47.11.74              #alumetal-pl.mail.protection.outlook.com has address
+194.25.225.140            #MAILIN22.telekom.de
+194.25.225.200            #MAILIN42.telekom.de
+194.25.225.136            #MAILIN12.telekom.de
+194.25.225.196            #MAILIN32.telekom.de
