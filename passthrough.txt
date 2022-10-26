@@ -168,3 +168,5 @@
 185.51.191.45             #mail.expokonto.hu - BJC konyveles
 169.53.39.226             #zwcad licenc weboldal - csabacast
 183.62.6.132              #zwcad licenc weboldal - csabacast
+104.47.6.36               #alumetal-pl.mail.protection.outlook.com
+104.47.11.74              #alumetal-pl.mail.protection.outlook.com has address
