@@ -176,4 +176,4 @@
 194.25.225.196            #MAILIN32.telekom.de
 193.138.123.105           #mlgw1.3banken.net - oberlizing.hu
 193.138.123.106           #mlgw9.3banken.net - oberlizing.hu
-188.143.40.97             #mail.intercrown.hu
+
