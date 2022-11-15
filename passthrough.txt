@@ -180,3 +180,5 @@
 43.154.252.185            # banggood.com MX - Racz Melindanak - Csabacast
 43.154.252.16             # banggood.com MX - Racz Melindanak - Csabacast
 43.154.252.202            # banggood.com MX - Racz Melindanak - Csabacast
+94.100.132.100            # mx19a.antispameurope.com, mx19c.antispameurope.com - Csabacast
+83.246.65.85              # mx19a.antispameurope.com, mx19b.antispameurope.com, mx19d.antispameurope.com - Csabacast
