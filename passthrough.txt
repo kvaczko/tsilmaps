@@ -179,3 +179,7 @@
 43.154.252.0/24           # banggood.com MX - Racz Melindanak - Csabacast
 94.100.132.100            # mx19a.antispameurope.com, mx19c.antispameurope.com - Csabacast
 83.246.65.85              # mx19a.antispameurope.com, mx19b.antispameurope.com, mx19d.antispameurope.com - Csabacast
+195.228.150.64/26         #RÁBA Győr fix IP tartomány
+195.228.150.1/29          #RÁBA Mór1 fix IP tartomány
+195.228.149.161/29        #RÁBA Sárvár fix IP tartomány
+195.228.41.105/29         #RÁBA Esztergom fix IP tartomány
