@@ -183,3 +183,4 @@
 195.228.150.1/29          #RÁBA Mór1 fix IP tartomány
 195.228.149.161/29        #RÁBA Sárvár fix IP tartomány
 195.228.41.105/29         #RÁBA Esztergom fix IP tartomány
+105.247.203.234           #NEXUS firmware download
