@@ -187,3 +187,4 @@
 95.217.53.158             #help.nextcloud.com
 185.111.89.250            #mail.apc.hu
 94.199.180.228            #mail.ezit.hu (mx2.postmaster.hu)
+213.162.80.164            #vko - sieles wifi
