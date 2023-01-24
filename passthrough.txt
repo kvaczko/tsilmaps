@@ -186,7 +186,6 @@
 95.217.53.158             #help.nextcloud.com
 185.111.89.250            #mail.apc.hu
 94.199.180.228            #mail.ezit.hu (mx2.postmaster.hu)
-213.162.80.164            #vko - sieles wifi
 35.240.62.197             #kulcstavszamla.hu - csabacast
 45.86.116.0/22            # emarsys smtp --- banggood.com --- csabacsast
 45.87.196.0/24            # emarsys smtp --- banggood.com --- csabacsast
