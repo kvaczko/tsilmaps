@@ -198,3 +198,4 @@
 194.113.24.0/22           # emarsys smtp --- banggood.com --- csabacsast
 195.54.172.0/23           # emarsys smtp --- banggood.com --- csabacsast
 217.175.194.0/24          # emarsys smtp --- banggood.com --- csabacsast
+82.150.62.33              # szintezis ipsec fogado oldal wan cim - raba
