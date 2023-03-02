@@ -204,3 +204,4 @@
 185.20.209.166            # mx.zoho.eu
 89.36.170.166             # mx2.zoho.eu
 185.20.209.166            # mx3.zoho.eu
+172.65.251.78             # gitlab.com - vaczkor
