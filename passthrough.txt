@@ -201,7 +201,7 @@
 82.150.62.33              # szintezis ipsec fogado oldal wan cim - raba
 185.33.54.14              # taroplast.hu email - csabacast
 185.33.55.101             # alublock.hu email - csabacast
-185.20.209.166            # mx.zoho.eu
-89.36.170.166             # mx2.zoho.eu
-185.20.209.166            # mx3.zoho.eu
+185.20.209.166            # mx.zoho.eu - csabacast
+89.36.170.166             # mx2.zoho.eu - csabacast
+185.20.209.166            # mx3.zoho.eu - csabacast
 172.65.251.78             # gitlab.com - vaczkor
