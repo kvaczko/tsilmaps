@@ -206,3 +206,4 @@
 185.20.209.166            # mx3.zoho.eu - csabacast
 172.65.251.78             # gitlab.com - vaczkor
 89.36.170.164             # smtp.zoho.eu - csabacast
+88.255.142.115            # martur.com.tr                                         - RÁBA
