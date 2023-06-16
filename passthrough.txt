@@ -210,3 +210,4 @@
 194.140.248.14            # mail1.mnb.hu                                          - NC
 185.33.54.3               # mx.microware.hu (UNICREDIT mailprovider)
 185.51.188.60             # mail.kiralyvill.hu                                    - CSABAcast
+80.77.124.171             # exchange.dakk.hu                                      - RÁBA
