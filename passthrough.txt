@@ -213,3 +213,4 @@
 80.77.124.171             # exchange.dakk.hu                                      - RÁBA
 93.190.5.152              # ugyfelportal.union.hu
 93.190.5.158              # union.hu
+37.148.209.108            # normfasteners.com                                     - CSABAcast
