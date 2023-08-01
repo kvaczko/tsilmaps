@@ -215,3 +215,5 @@
 93.190.5.158              # union.hu
 37.148.209.108            # normfasteners.com                                     - CSABAcast
 20.23.136.70              # oss.mohu.hu                                           - CSABAcast
+84.21.34.174              # mail02.fw.porsche.de                                  - CSABAcast
+84.21.34.159              # mail.fw.porsche.de                                    - CSABAcast
