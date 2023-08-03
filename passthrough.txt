@@ -220,3 +220,5 @@
 171.31.191.211            # szfw3.mol.hu                                          - BJC
 171.31.191.209            # szfw.mol.hu                                           - BJC
 171.31.191.210            # szfw2.mol.hu                                           - BJC
+148.163.154.137           # salesforce.com - mxa-00177002.gslb.pphosted.com - mohu
+148.163.150.200           # salesforce.com - mxb-00177002.gslb.pphosted.com - mohu
