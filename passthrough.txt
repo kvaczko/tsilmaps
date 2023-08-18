@@ -222,3 +222,11 @@
 171.31.191.210            # szfw2.mol.hu                                           - BJC
 148.163.154.137           # salesforce.com - mxa-00177002.gslb.pphosted.com - mohu
 148.163.150.200           # salesforce.com - mxb-00177002.gslb.pphosted.com - mohu
+52.101.68.18              # mbhbank-hu.mail.protection.outlook.com - Pannon2005
+52.101.68.16              # mbhbank-hu.mail.protection.outlook.com - Pannon2005
+52.101.68.3               # mbhbank-hu.mail.protection.outlook.com - Pannon2005
+52.101.68.5               # mbhbank-hu.mail.protection.outlook.com - Pannon2005
+52.101.68.0               # mbhbank-hu.mail.protection.outlook.com - Pannon2005
+52.101.73.2               # mbhbank-hu.mail.protection.outlook.com - Pannon2005
+52.101.73.6               # mbhbank-hu.mail.protection.outlook.com - Pannon2005
+52.101.68.32              # mbhbank-hu.mail.protection.outlook.com - Pannon2005
