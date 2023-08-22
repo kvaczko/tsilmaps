@@ -225,3 +225,5 @@
 52.101.68.0/24            # mbhbank-hu.mail.protection.outlook.com - Pannon2005
 52.101.73.0/24            # mbhbank-hu.mail.protection.outlook.com - Pannon2005
 185.51.188.28             # www.edenkertcsarda.hu                                 - CSABAcast
+172.18.144.122            # psmtp02l.lin.szh.eir.hu        - Pannon2005-MBH bank kivonat kuldo          
+172.26.192.10             # peubapp01w.win.szh.eir.hu      - Pannon2005-MBH bank kivonat kuldo
