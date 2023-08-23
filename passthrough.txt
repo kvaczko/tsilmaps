@@ -222,8 +222,6 @@
 171.31.191.210            # szfw2.mol.hu                                          - BJC
 148.163.154.137           # salesforce.com - mxa-00177002.gslb.pphosted.com - mohu
 148.163.150.200           # salesforce.com - mxb-00177002.gslb.pphosted.com - mohu
-52.101.68.0/24            # mbhbank-hu.mail.protection.outlook.com - Pannon2005
-52.101.73.0/24            # mbhbank-hu.mail.protection.outlook.com - Pannon2005
 185.51.188.28             # www.edenkertcsarda.hu                                 - CSABAcast
-172.18.144.122            # psmtp02l.lin.szh.eir.hu        - Pannon2005-MBH bank kivonat kuldo          
-172.26.192.10             # peubapp01w.win.szh.eir.hu      - Pannon2005-MBH bank kivonat kuldo
+195.228.180.80            # mozilla1.eir.hu        - Pannon2005-MBH bank kivonat kuldo
+195.228.180.81            # mozilla2.eir.hu        - Pannon2005-MBH bank kivonat kuldo
