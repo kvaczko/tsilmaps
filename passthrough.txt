@@ -225,3 +225,5 @@
 185.51.188.28             # www.edenkertcsarda.hu                                 - CSABAcast
 195.228.180.80            # mozilla1.eir.hu        - Pannon2005-MBH bank kivonat kuldo
 195.228.180.81            # mozilla2.eir.hu        - Pannon2005-MBH bank kivonat kuldo
+185.51.188.51             # toolintime.hu                                         - CSABAcast
+
