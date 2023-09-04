@@ -227,3 +227,4 @@
 195.228.180.81            # mozilla2.eir.hu        - Pannon2005-MBH bank kivonat kuldo
 185.51.188.51             # toolintime.hu                                         - CSABAcast
 159.183.145.195           # mohu.hu (sendgrid.net)                                - CSABAcast
+80.244.96.4               # www.vodafone.hu
