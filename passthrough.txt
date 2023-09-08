@@ -229,3 +229,4 @@
 159.183.145.195           # mohu.hu (sendgrid.net)                                - CSABAcast
 80.244.96.0/24            # www.vodafone.hu
 80.244.101.0/24           # auth.vodafone.hu
+130.255.79.198            # kamax.com                                             - CSABAcast
