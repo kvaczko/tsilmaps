@@ -228,3 +228,4 @@
 130.255.79.198            # kamax.com                                             - CSABAcast
 162.159.134.233           # plex cloudflare                                       - VK
 185.51.191.51             # szellotanya.hu                                        - CSABAcast
+185.51.191.100            # ugyfeladmin.tarhely.eu                                - Pannon 2005
