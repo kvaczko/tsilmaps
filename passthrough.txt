@@ -227,3 +227,4 @@
 80.244.101.0/24           # auth.vodafone.hu
 130.255.79.198            # kamax.com                                             - CSABAcast
 162.159.134.233           # plex cloudflare                                       - VK
+185.51.191.51             # szellotanya.hu                                        - CSABAcast
