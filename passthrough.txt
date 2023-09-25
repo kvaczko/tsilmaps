@@ -229,3 +229,4 @@
 162.159.134.233           # plex cloudflare                                       - VK
 185.51.191.51             # szellotanya.hu                                        - CSABAcast
 185.187.75.220            # mx.hl-mail.hu                                         - CSABAcast
+194.36.124.45             # hrevolution.hu                                        - CSABAcast
