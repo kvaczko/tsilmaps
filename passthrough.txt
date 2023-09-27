@@ -230,3 +230,7 @@
 185.51.191.51             # szellotanya.hu                                        - CSABAcast
 185.187.75.220            # mx.hl-mail.hu                                         - CSABAcast
 194.36.124.45             # hrevolution.hu                                        - CSABAcast
+108.177.16.0/24           # gmail.com IP address range 1
+108.177.17.0/24           # gmail.com IP address range 2
+142.250.220.0/24          # gmail.com IP address range 3
+142.250.221.0/24          # gmail.com IP address range 4
