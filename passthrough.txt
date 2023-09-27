@@ -234,3 +234,4 @@
 108.177.17.0/24           # gmail.com IP address range 2
 142.250.220.0/24          # gmail.com IP address range 3
 142.250.221.0/24          # gmail.com IP address range 4
+213.181.208.223           # support.eurosolid.hu                                  - CSABAcast
