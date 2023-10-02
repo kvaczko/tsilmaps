@@ -245,4 +245,14 @@
 209.85.128.0/17           # _netblocks.google.com
 216.58.192.0/19           # _netblocks.google.com
 216.239.32.0/19           # _netblocks.google.com
+172.217.0.0/19            # _netblocks3.google.com
+172.217.32.0/20           # _netblocks3.google.com
+172.217.128.0/19          # _netblocks3.google.com
+172.217.160.0/20          # _netblocks3.google.com
+172.217.192.0/19          # _netblocks3.google.com
+172.253.56.0/21           # _netblocks3.google.com
+172.253.112.0/20          # _netblocks3.google.com
+108.177.96.0/19           # _netblocks3.google.com
+35.191.0.0/16             # _netblocks3.google.com
+130.211.0.0/22            # _netblocks3.google.com
 213.181.208.223           # support.eurosolid.hu                                  - CSABAcast
