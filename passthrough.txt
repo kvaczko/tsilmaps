@@ -256,3 +256,4 @@
 35.191.0.0/16             # _netblocks3.google.com
 130.211.0.0/22            # _netblocks3.google.com
 213.181.208.223           # support.eurosolid.hu                                  - CSABAcast
+176.126.243.103           # szerszamoutlet.hu                                     - VK
