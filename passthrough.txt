@@ -295,3 +295,6 @@
 62.140.7.0/24             # de._netblocks.mimecast.com
 194.104.108.240/29        # de._netblocks.mimecast.com
 194.104.108.21/32         # de._netblocks.mimecast.com
+107.20.71.201             # link.kifli.hu                                        - VK
+3.222.82.214              # link.kifli.hu                                        - VK
+3.226.166.212             # link.kifli.hu                                        - VK
