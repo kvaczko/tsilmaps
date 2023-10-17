@@ -296,8 +296,8 @@
 194.104.108.240/29        # de._netblocks.mimecast.com
 194.104.108.21/32         # de._netblocks.mimecast.com
 107.20.71.201             # link.kifli.hu                                        - VK
+185.51.188.61             # cardesign.hu                                         - BJC - Keleti Kristof
 3.222.82.214              # link.kifli.hu                                        - VK
 3.226.166.212             # link.kifli.hu                                        - VK
 46.252.128.228            # mx2.kamax.com                                        - CSABAcast
 62.159.247.139            # mx.kamax.com                                         - CSABAcast
-
