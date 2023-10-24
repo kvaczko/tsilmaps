@@ -159,6 +159,7 @@
 18.200.42.95              #feedback-smtp.eu-west-1.amazonses.com
 18.200.42.95              #feedback-smtp.eu-west-1.amazonses.com
 185.51.191.58             #tarhely.eu mail - molnár petra ügyvédi iroda
+185.51.191.100            # tarhely.eu mail - komplexfaktor - Szaraz Bea
 45.12.40.52               #wayquest - krisped
 38.242.146.157            #wayquest - krisped
 185.51.191.45             #mail.expokonto.hu - BJC konyveles
