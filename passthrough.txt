@@ -308,4 +308,5 @@
 74.125.200.27             # alt3.aspmx.l.google.com                              - Simonek Ilona
 142.250.102.27            # aspmx.l.google.com                                   - Simonek Ilona
 144.76.181.195            # www.komplexfkaktor.hu
-217.65.100.68             # www.innomanagement.hu                                - CSABACast
+217.65.100.68             # www.innomanagement.hu                                - CSABAcast
+188.6.68.208              # molnartakacs.hu                                      - CSABAcast
