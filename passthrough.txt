@@ -314,3 +314,6 @@
 10.0.0.0/8                # LAN
 172.16.0.0/12             # LAN
 185.51.188.36             # molnartakacs.hu                                      - CSABAcast
+104.47.12.36              # messeticket-de01c.mail.protection.outlook.com        - CSABAcast
+104.47.13.36              # messeticket-de01c.mail.protection.outlook.com        - CSABAcast
+104.47.14.36              # messeticket-de01c.mail.protection.outlook.com        - CSABAcast
