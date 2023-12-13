@@ -319,3 +319,4 @@
 104.47.14.36              # messeticket-de01c.mail.protection.outlook.com        - CSABAcast
 198.178.74.91             # files.molex.hu                                       - CSABAcast
 85.115.52.190             # cust1206-1.in.mailcontrol.com                        - CSABAcast
+79.172.252.24             # mail.csorba.eu                                       - Pannon2005
