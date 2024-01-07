@@ -366,3 +366,4 @@
 208.64.202.0/24	# steam multiplayer  - VK
 208.64.203.0/24	# steam multiplayer  - VK
 208.78.164.0/22 # steam multiplayer  - VK
+199.46.35.126 # steam multiplayer  - VK
