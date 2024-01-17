@@ -328,3 +328,4 @@
 108.174.3.215             # mail-c.linkedin.com
 136.147.189.244           # mail.tnt.com                                         - CSABAcast
 193.201.191.214           # mail.precimer.hu                                     - CSABAcast
+95.217.22.199             # mail.membranrendszerek.hu                            - CSABAcast
