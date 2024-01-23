@@ -330,3 +330,4 @@
 136.147.178.154           # mta.mail.tnt.com                                     - CSABAcast
 193.201.191.214           # mail.precimer.hu                                     - CSABAcast
 95.217.22.199             # mail.membranrendszerek.hu                            - CSABAcast
+185.51.191.29             # mail.butella.hu                                      - BJC
