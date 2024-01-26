@@ -331,3 +331,4 @@
 193.201.191.214           # mail.precimer.hu                                     - CSABAcast
 95.217.22.199             # mail.membranrendszerek.hu                            - CSABAcast
 185.51.191.29             # mail.butella.hu                                      - BJC
+185.187.75.220            # mx.hl-mail.hu                                        - CSABAcast
