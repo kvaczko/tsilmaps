@@ -334,3 +334,4 @@
 185.187.75.220            # mx.hl-mail.hu                                        - CSABAcast
 185.51.191.42             # mail.storker.hu - thfourtytwo.tarhely.eu             - CSABAcast
 81.2.195.200              # mxavas.forpsi.com                                    - BJC - premiumitalnagzker
+195.228.152.103           # mail.neosoft.hu - martinmetals.eu MX                 - CSABAcast
