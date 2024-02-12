@@ -336,3 +336,5 @@
 81.2.195.200              # mxavas.forpsi.com                                    - BJC - premiumitalnagzker
 195.228.152.103           # mail.neosoft.hu - martinmetals.eu MX                 - CSABAcast
 46.107.18.166             # mail.buttner.hu                                      - CSABAcast
+52.101.68.0/24            # shell-com.mail.protection.outlook.com                - BONA - shell.com
+52.101.73.0/24            # shell-com.mail.protection.outlook.com                - BONA - shell.com
