@@ -340,4 +340,4 @@
 52.101.73.0/24            # shell-com.mail.protection.outlook.com                - BONA - shell.com
 217.194.41.94             # adfs.mosaic-services.net                             - CSABAcast
 213.61.254.0/24           # rheinmetall.com                                      - RÁBA
-217.194.41.101            # rheinmetall.com                                      - RÁBA
+217.194.41.0/24           # rheinmetall.com                                      - RÁBA
