@@ -343,3 +343,4 @@
 217.194.41.0/24           # rheinmetall.com                                      - RÁBA
 213.61.254.132            # rheinmetall.com                                      - RÁBA
 2.18.38.33                # rheinmetall.com                                      - RÁBA
+217.27.218.105            # TESZT
