@@ -348,3 +348,4 @@
 217.63.121.174            # mail.noricangroup.com                                - CSABAcast
 91.207.212.193            # mxa-00238701.gslb.pphosted.com - noricangroup.com    - CSABAcast
 91.207.212.193            # mxb-00238701.gslb.pphosted.com - noricangroup.com    - CSABAcast
+195.228.152.103           # mail.neosoft.hu                                      - CSABAcast
