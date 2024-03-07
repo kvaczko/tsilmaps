@@ -349,4 +349,5 @@
 91.207.212.193            # mxa-00238701.gslb.pphosted.com - noricangroup.com    - CSABAcast
 91.207.212.193            # mxb-00238701.gslb.pphosted.com - noricangroup.com    - CSABAcast
 195.228.152.103           # mail.neosoft.hu                                      - CSABAcast
+195.228.152.60            # pmg.neosoft.hu                                       - CSABAcast
 46.229.239.234            # mail.cream.sk                                        - CSABAcast
