@@ -354,3 +354,6 @@
 94.199.92.130             # mx-in01.eu.retarus.com - supplyon.com                - CSABAcast
 94.199.89.39              # mx-in02.eu.retarus.com - supplyon.com                - CSABAcast
 80.148.24.230             # backmail.supplyon.com - supplyon.com                 - CSABAcast
+93.191.164.95             # mx-in-001.inxserver.de - supplyon.com                - CSABAcast
+93.191.162.54             # mx-in-002.inxserver.de - supplyon.com                - CSABAcast
+93.191.162.62             # mx-in-005.inxserver.de - supplyon.com                - CSABAcast
