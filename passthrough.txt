@@ -359,3 +359,7 @@
 93.191.162.62             # mx-in-005.inxserver.de - supplyon.com                - CSABAcast
 20.23.120.133             # www.survio.com                                       - CSABAcast
 172.16.1.1                # www.survio.com                                       - CSABAcast
+212.239.38.69             # everysws.com                                         - CSABAcast
+212.239.38.70             # everysws.com                                         - CSABAcast
+212.239.38.71             # everysws.com                                         - CSABAcast
+212.77.69.148             # everysws.com                                         - CSABAcast
