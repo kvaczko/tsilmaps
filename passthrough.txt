@@ -363,3 +363,7 @@
 212.239.38.70             # everysws.com                                         - CSABAcast
 212.239.38.71             # everysws.com                                         - CSABAcast
 212.77.69.148             # everysws.com                                         - CSABAcast
+212.31.69.23              # OFTP szerver                                         - RÁBA
+212.31.69.29              # OFTP szerver                                         - RÁBA
+212.31.69.30              # OFTP szerver                                         - RÁBA
+212.31.80.75              # OFTP szerver                                         - RÁBA
