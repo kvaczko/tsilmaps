@@ -367,3 +367,20 @@
 212.31.69.29              # OFTP szerver                                         - RÁBA
 212.31.69.30              # OFTP szerver                                         - RÁBA
 212.31.80.75              # OFTP szerver                                         - RÁBA
+95.100.173.65             # unicreditgroup.eu                                    - CSABAcast
+207.54.65.231             # unicreditgroup.eu                                    - CSABAcast
+207.54.65.232             # unicreditgroup.eu                                    - CSABAcast
+207.54.67.124             # unicreditgroup.eu                                    - CSABAcast
+207.54.67.244             # unicreditgroup.eu                                    - CSABAcast
+207.54.68.214             # unicreditgroup.eu                                    - CSABAcast
+207.54.68.215             # unicreditgroup.eu                                    - CSABAcast
+207.54.68.217             # unicreditgroup.eu                                    - CSABAcast
+207.54.68.218             # unicreditgroup.eu                                    - CSABAcast
+207.54.69.61              # unicreditgroup.eu                                    - CSABAcast
+207.54.69.62              # unicreditgroup.eu                                    - CSABAcast
+207.54.69.63              # unicreditgroup.eu                                    - CSABAcast
+207.54.69.64              # unicreditgroup.eu                                    - CSABAcast
+207.54.69.114             # unicreditgroup.eu                                    - CSABAcast
+207.54.69.221             # unicreditgroup.eu                                    - CSABAcast
+207.54.70.56              # unicreditgroup.eu                                    - CSABAcast
+207.54.70.213             # unicreditgroup.eu                                    - CSABAcast
