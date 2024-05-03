@@ -242,7 +242,7 @@
 66.249.80.0/20            # _netblocks.google.com
 72.14.192.0/18            # _netblocks.google.com
 74.125.0.0/16             # _netblocks.google.com
-108.177.8.0/21            # _netblocks.google.com
+108.177.0.0/16            # _netblocks.google.com
 173.194.0.0/16            # _netblocks.google.com
 209.85.128.0/17           # _netblocks.google.com
 216.58.192.0/19           # _netblocks.google.com
@@ -303,10 +303,16 @@
 3.226.166.212             # link.kifli.hu                                        - VK
 46.252.128.228            # mx2.kamax.com                                        - CSABAcast
 62.159.247.139            # mx.kamax.com                                         - CSABAcast
-142.251.9.27              # alt1.aspmx.l.google.com                              - Simonek Ilona
-142.250.150.27            # alt2.aspmx.l.google.com                              - Simonek Ilona
-74.125.200.27             # alt3.aspmx.l.google.com                              - Simonek Ilona
-142.250.102.27            # aspmx.l.google.com                                   - Simonek Ilona
+142.251.9.26              # aspmx3.googlemail.com                                - Simonek Ilona
+142.251.9.27              # aspmx3.googlemail.com                                - Simonek Ilona
+142.250.153.26            # aspmx2.googlemail.com                                - Simonek Ilona
+142.250.153.27            # aspmx2.googlemail.com                                - Simonek Ilona
+142.251.150.26            # alt2.aspmx.l.google.com                              - Simonek Ilona
+142.251.150.27            # alt2.aspmx.l.google.com                              - Simonek Ilona
+142.250.150.26            # alt3.aspmx.l.google.com                              - Simonek Ilona
+142.250.150.27            # alt3.aspmx.l.google.com                              - Simonek Ilona
+74.125.200.27             # alt4.aspmx.l.google.com                              - Simonek Ilona
+142.250.27.27             # aspmx.l.google.com                                   - Simonek Ilona
 144.76.181.195            # www.komplexfkaktor.hu
 217.65.100.68             # www.innomanagement.hu                                - CSABAcast
 188.6.68.208              # molnartakacs.hu                                      - CSABAcast
