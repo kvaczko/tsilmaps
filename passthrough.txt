@@ -403,3 +403,5 @@
 47.246.146.255            # mx3.qiye.aliyun.com                                  - CSABAcast - KINA????
 47.246.146.58             # mx3.qiye.aliyun.com                                  - CSABAcast - KINA????
 82.223.190.100            # mx.serviciodecorreo.es                               - CSABAcast
+47.246.146.58             # mx1.qiye.aliyun.com                                  - CSABAcast
+47.246.146.255            # mx2.qiye.aliyun.com                                  - CSABAcast
