@@ -408,3 +408,5 @@
 52.7.54.112               # XYZ.us-east-1.elb.amazonaws.com                         - Raba
 44.198.92.22              # XYZ.us-east-1.elb.amazonaws.com                         - Raba
 52.3.121.40               # XYZ.us-east-1.elb.amazonaws.com                         - Raba
+52.5.96.196               # XYZ.us-east-1.elb.amazonaws.com                         - Raba
+18.210.185.146            # XYZ.us-east-1.elb.amazonaws.com                         - Raba
