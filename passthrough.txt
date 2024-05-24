@@ -410,3 +410,4 @@
 52.3.121.40               # XYZ.us-east-1.elb.amazonaws.com                         - Raba
 52.5.96.196               # XYZ.us-east-1.elb.amazonaws.com                         - Raba
 18.210.185.146            # XYZ.us-east-1.elb.amazonaws.com                         - Raba
+12.155.41.141             # fssfed.ge.com                                           - Raba
