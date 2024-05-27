@@ -405,9 +405,10 @@
 82.223.190.100            # mx.serviciodecorreo.es                               - CSABAcast
 47.246.146.58             # mx1.qiye.aliyun.com                                  - CSABAcast
 47.246.146.255            # mx2.qiye.aliyun.com                                  - CSABAcast
-52.7.54.112               # XYZ.us-east-1.elb.amazonaws.com                         - Raba
-44.198.92.22              # XYZ.us-east-1.elb.amazonaws.com                         - Raba
-52.3.121.40               # XYZ.us-east-1.elb.amazonaws.com                         - Raba
-52.5.96.196               # XYZ.us-east-1.elb.amazonaws.com                         - Raba
-18.210.185.146            # XYZ.us-east-1.elb.amazonaws.com                         - Raba
-12.155.41.141             # fssfed.ge.com                                           - Raba
+52.7.54.112               # XYZ.us-east-1.elb.amazonaws.com                      - Raba
+44.198.92.22              # XYZ.us-east-1.elb.amazonaws.com                      - Raba
+52.3.121.40               # XYZ.us-east-1.elb.amazonaws.com                      - Raba
+52.5.96.196               # XYZ.us-east-1.elb.amazonaws.com                      - Raba
+18.210.185.146            # XYZ.us-east-1.elb.amazonaws.com                      - Raba
+12.155.41.141             # fssfed.ge.com                                        - Raba
+94.199.52.161             # mail.framwork.hu                                     - CSABAcast
