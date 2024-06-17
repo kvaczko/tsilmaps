@@ -414,3 +414,6 @@
 94.199.52.161             # mail.framwork.hu                                     - CSABAcast
 185.51.191.84             # www.seminarconsulting.hu                             - CSABAcast
 194.36.145.172            # mail.larskol.hu                                      - CSABAcast
+141.113.8.25              # mercedes-benz.com MX                                 - CSABAcast
+141.113.0.26              # mercedes-benz.com MX                                 - CSABAcast
+141.113.227.218           # mercedes-benz.com MX                                 - CSABAcast
