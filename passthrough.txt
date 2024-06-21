@@ -417,3 +417,19 @@
 141.113.8.25              # mercedes-benz.com MX                                 - CSABAcast
 141.113.0.26              # mercedes-benz.com MX                                 - CSABAcast
 141.113.227.218           # mercedes-benz.com MX                                 - CSABAcast
+207.54.65.231             # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.69.63              # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.68.214             # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.68.215             # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.69.62              # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.67.124             # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.69.61              # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.69.114             # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.69.64              # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.68.217             # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.70.213             # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.70.56              # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.65.232             # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.67.244             # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.68.218             # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
+207.54.69.221             # mx1/mx2.hc210-93.eu.iphmx.com (inucreditgroup.hu)
