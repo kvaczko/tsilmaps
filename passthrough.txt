@@ -312,6 +312,7 @@
 142.250.150.26            # alt3.aspmx.l.google.com                              - Simonek Ilona
 142.250.150.27            # alt3.aspmx.l.google.com                              - Simonek Ilona
 74.125.200.27             # alt4.aspmx.l.google.com                              - Simonek Ilona
+108.177.15.27             # aspmx.l.google.com                                   - Simonek Ilona
 142.250.27.27             # aspmx.l.google.com                                   - Simonek Ilona
 142.251.31.27             # aspmx.l.google.com                                   - Simonek Ilona
 144.76.181.195            # www.komplexfkaktor.hu
