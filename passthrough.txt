@@ -441,3 +441,6 @@
 52.101.68.0/24            # acea-auto.mail.protection.outlook.com               - CSABAcast
 195.228.28.69             # mail-gubacsi.golding.hu                             - CSABAcast
 217.13.97.41              # mail-backup.golding.hu                              - CSABAcast
+167.89.115.46             # max.sendgrid.net                                    - mobile.de-hez
+167.89.118.48             # max.sendgrid.net                                    - mobile.de-hez
+167.89.123.50             # max.sendgrid.net                                    - mobile.de-hez
