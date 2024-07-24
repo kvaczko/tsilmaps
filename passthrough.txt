@@ -444,3 +444,4 @@
 167.89.115.46             # mx.sendgrid.net                                    - mobile.de-hez
 167.89.118.48             # mx.sendgrid.net                                    - mobile.de-hez
 167.89.123.50             # mx.sendgrid.net                                    - mobile.de-hez
+149.72.130.1              # o134.sg.team.mobile.de                             - mobile.de-hez
