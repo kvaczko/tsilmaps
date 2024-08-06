@@ -441,7 +441,8 @@
 52.101.68.0/24            # acea-auto.mail.protection.outlook.com               - CSABAcast
 195.228.28.69             # mail-gubacsi.golding.hu                             - CSABAcast
 217.13.97.41              # mail-backup.golding.hu                              - CSABAcast
-167.89.115.46             # mx.sendgrid.net                                    - mobile.de-hez
-167.89.118.48             # mx.sendgrid.net                                    - mobile.de-hez
-167.89.123.50             # mx.sendgrid.net                                    - mobile.de-hez
-149.72.130.1              # o134.sg.team.mobile.de                             - mobile.de-hez
+167.89.115.46             # mx.sendgrid.net                                     - mobile.de-hez
+167.89.118.48             # mx.sendgrid.net                                     - mobile.de-hez
+167.89.123.50             # mx.sendgrid.net                                     - mobile.de-hez
+149.72.130.1              # o134.sg.team.mobile.de                              - mobile.de-hez
+160.46.240.31             # astras.bmw.com                                      - CSABAcast
