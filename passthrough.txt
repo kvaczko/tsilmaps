@@ -431,3 +431,6 @@
 149.72.130.1              # o134.sg.team.mobile.de                              - mobile.de-hez
 160.46.240.31             # astras.bmw.com                                      - CSABAcast
 89.104.31.164             # Hetzmann
+142.250.157.27            # google.com
+74.125.200.26             # google.com
+173.194.202.27            # google.com
