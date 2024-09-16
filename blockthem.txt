@@ -1,0 +1,17 @@
+87.236.176.0/24               #internet-measurement.com
+193.163.125.0/24              #internet-measurement.com
+68.183.53.77/32               #internet-measurement.com
+104.248.203.191/32            #internet-measurement.com
+104.248.204.195/32            #internet-measurement.com
+142.93.191.98/32              #internet-measurement.com
+157.245.216.203/32            #internet-measurement.com
+165.22.39.64/32               #internet-measurement.com
+167.99.209.184/32             #internet-measurement.com
+188.166.26.88/32              #internet-measurement.com
+206.189.7.178/32              #internet-measurement.com
+209.97.152.248/32             #internet-measurement.com
+46.8.8.0/24
+91.238.181.0/24
+80.66.76.0/24
+45.227.254.0/24
+179.60.149.0/24
