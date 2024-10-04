@@ -434,3 +434,4 @@
 142.250.157.27            # google.com
 74.125.200.26             # google.com
 173.194.202.27            # google.com
+185.51.191.45             # mail.expokonto.hu                                    - BJC
