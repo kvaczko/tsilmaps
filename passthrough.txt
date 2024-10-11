@@ -440,3 +440,7 @@
 3.215.172.219             # one.fanuc.eu/fanuc-akademia-adatbekero              - CSABAcast
 3.92.120.28               # one.fanuc.eu/fanuc-akademia-adatbekero              - CSABAcast
 34.237.219.119            # one.fanuc.eu/fanuc-akademia-adatbekero              - CSABAcast
+18.239.255.113            # surveymonkey.com/r/fanuc-akademia-adatbekero        - CSABAcast
+18.239.255.31             # surveymonkey.com/r/fanuc-akademia-adatbekero        - CSABAcast
+18.239.255.38             # surveymonkey.com/r/fanuc-akademia-adatbekero        - CSABAcast
+18.239.255.30             # surveymonkey.com/r/fanuc-akademia-adatbekero        - CSABAcast
