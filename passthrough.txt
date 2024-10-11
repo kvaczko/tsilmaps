@@ -435,3 +435,8 @@
 74.125.200.26             # google.com
 173.194.202.27            # google.com
 185.51.191.45             # mail.expokonto.hu                                    - BJC
+52.54.96.194              # one.fanuc.eu/fanuc-akademia-adatbekero              - CSABAcast
+18.208.125.13             # one.fanuc.eu/fanuc-akademia-adatbekero              - CSABAcast
+3.215.172.219             # one.fanuc.eu/fanuc-akademia-adatbekero              - CSABAcast
+3.92.120.28               # one.fanuc.eu/fanuc-akademia-adatbekero              - CSABAcast
+34.237.219.119            # one.fanuc.eu/fanuc-akademia-adatbekero              - CSABAcast
