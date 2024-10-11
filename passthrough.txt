@@ -444,3 +444,5 @@
 18.239.255.31             # surveymonkey.com/r/fanuc-akademia-adatbekero        - CSABAcast
 18.239.255.38             # surveymonkey.com/r/fanuc-akademia-adatbekero        - CSABAcast
 18.239.255.30             # surveymonkey.com/r/fanuc-akademia-adatbekero        - CSABAcast
+54.72.141.200
+34.250.129.184
