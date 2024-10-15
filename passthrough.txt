@@ -386,11 +386,9 @@
 207.54.70.0/24            # unicreditgroup.eu/hu                                 - CSABAcast
 51.91.105.7               # mail.arancia.es                                      - CSABAcast
 47.246.99.195             # mxw.mxhichina.com                                    - CSABAcast - KINA????
-47.246.146.255            # mx3.qiye.aliyun.com                                  - CSABAcast - KINA????
-47.246.146.58             # mx3.qiye.aliyun.com                                  - CSABAcast - KINA????
+47.246.146.255            # mx2 & mx3.qiye.aliyun.com                            - CSABAcast - KINA????
+47.246.146.58             # mx1 & mx3.qiye.aliyun.com                            - CSABAcast - KINA????
 82.223.190.100            # mx.serviciodecorreo.es                               - CSABAcast
-47.246.146.58             # mx1.qiye.aliyun.com                                  - CSABAcast
-47.246.146.255            # mx2.qiye.aliyun.com                                  - CSABAcast
 52.7.54.112               # XYZ.us-east-1.elb.amazonaws.com                      - Raba
 44.198.92.22              # XYZ.us-east-1.elb.amazonaws.com                      - Raba
 52.3.121.40               # XYZ.us-east-1.elb.amazonaws.com                      - Raba
