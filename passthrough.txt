@@ -433,7 +433,7 @@
 142.250.157.27            # google.com
 74.125.200.26             # google.com
 173.194.202.27            # google.com
-185.51.191.45             # mail.expokonto.hu                                    - BJC
+185.51.191.45             # mail.expokonto.hu                                   - BJC
 52.54.96.194              # one.fanuc.eu/fanuc-akademia-adatbekero              - CSABAcast
 18.208.125.13             # one.fanuc.eu/fanuc-akademia-adatbekero              - CSABAcast
 3.215.172.219             # one.fanuc.eu/fanuc-akademia-adatbekero              - CSABAcast
@@ -447,3 +447,4 @@
 34.250.129.184
 78.24.191.10              # enormis.hu                                          - BJC
 91.82.195.174             # mail.psfn.hu                                        - Pannon2005
+195.228.152.43            # jelentkezes.samling.hu                              - CSABAcast
