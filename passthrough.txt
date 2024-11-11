@@ -452,3 +452,4 @@
 52.101.170.0              # daimlertruck-com.mail.protection.outlook.com        - CSABAcast
 52.101.170.2              # daimlertruck-com.mail.protection.outlook.com        - CSABAcast
 52.101.168.0              # daimlertruck-com.mail.protection.outlook.com        - CSABAcast
+82.78.227.2               # mail.gts-automation.hu                              - CSABAcast
