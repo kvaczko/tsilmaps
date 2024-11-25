@@ -454,3 +454,4 @@
 52.101.168.0              # daimlertruck-com.mail.protection.outlook.com        - CSABAcast
 82.78.227.2               # mail.gts-automation.hu                              - CSABAcast
 159.183.165.195           # wfbtxrcp.outbound-mail.sendgrid.net                 - CSABAcast - Boronkai password reset a Daimlerhez
+45.126.246.90             # tuvbox.tuv.com                                      - RÁBA / REKARD
