@@ -458,3 +458,4 @@
 195.228.165.67/26         # csabacast.hu uj WAN tartomany                       - CSABAcast
 185.33.55.105             # dorker21.hu                                         - CSABAcast
 195.228.152.115           # www.kulturalisstatisztika.hu                        - CSABAcast
+161.38.204.235            # DÁK - m204-235.eu.mailgun.net
