@@ -459,3 +459,4 @@
 185.33.55.105             # dorker21.hu                                         - CSABAcast
 195.228.152.115           # www.kulturalisstatisztika.hu                        - CSABAcast
 161.38.204.235            # DÁP - m204-235.eu.mailgun.net
+82.234.125.112
