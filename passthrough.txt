@@ -459,4 +459,5 @@
 185.33.55.105             # dorker21.hu                                         - CSABAcast
 195.228.152.115           # www.kulturalisstatisztika.hu                        - CSABAcast
 161.38.204.235            # DÁP - m204-235.eu.mailgun.net
-115.124.28.0/24           # out28-4.mail.aliyun.com                             - CSABAcast - Kínai fontos
+115.124.28.0/24           # out28-1-254.mail.aliyun.com                             - CSABAcast - Kínai fontos
+115.124.29.0/24           # out29-1-254.mail.aliyun.com                             - CSABAcast - Kínai fontos
