@@ -464,3 +464,4 @@
 84.206.49.22              # mailgw2.ei.gov.hu                                    - BJC
 84.206.49.23              # mailgw3.ei.gov.hu                                    - BJC
 84.206.49.24              # mailgw4.ei.gov.hu                                    - BJC
+84.2.96.241               # molnartakacs.hu                                     - CSABAcast
