@@ -460,3 +460,7 @@
 195.228.152.115           # www.kulturalisstatisztika.hu                        - CSABAcast
 161.38.204.235            # DÁP - m204-235.eu.mailgun.net
 115.124.28.0/23           # out28-out29-X.mail.aliyun.com                             - CSABAcast - Kínai fontos
+84.206.49.11              # mailgw1.ei.gov.hu                                    - BJC
+84.206.49.22              # mailgw2.ei.gov.hu                                    - BJC
+84.206.49.23              # mailgw3.ei.gov.hu                                    - BJC
+84.206.49.24              # mailgw4.ei.gov.hu                                    - BJC
