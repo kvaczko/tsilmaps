@@ -468,3 +468,4 @@
 195.210.29.82             # radio bezs                                           - NMHH
 185.75.194.17             # IRMA                                                 - NMHH
 5.9.81.237                # IRMA                                                 - NMHH
+185.75.194.195            # IRMA                                                 - NMHH
