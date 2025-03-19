@@ -466,3 +466,4 @@
 84.206.49.24              # mailgw4.ei.gov.hu                                    - BJC
 84.2.96.241               # molnartakacs.hu                                      - CSABAcast
 195.210.29.82             # radio bezs                                           - NMHH
+185.75.194.17             # IRMA                                                 - NMHH
