@@ -64,3 +64,6 @@ aquadream.rs
 rhzk.hr
 # HAEIBEK202503199000011
 osdugalic.edu.rs
+# HAEIBEK202503199000061
+mobimpex.ro
+mke.org.hu
