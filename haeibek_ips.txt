@@ -63,3 +63,7 @@
 # HAEIBEK202503199000011
 185.119.88.55           # osdugalic.edu.rs
 196.251.92.20
+# HAEIBEK202503199000061
+178.238.222.42          # mail.mke.org.hu ;s mail2.mke.org.hu
+51.15.10.217
+188.213.33.77           # mail.mobimpex.ro
