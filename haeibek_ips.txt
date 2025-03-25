@@ -69,6 +69,8 @@
 188.213.33.77           # mail.mobimpex.ro
 # HAEIBEK202503249000069
 193.141.65.39          # mail.azmaplast.com
+76.223.54.146          # projec.com
+13.248.169.48          # projec.com
 185.253.218.211        # hxxp://hirosavva-cn.com
 46.175.148.58          # mail.iaa-airferight.com
 76.223.54.146          # www.mmarketing.xyz
