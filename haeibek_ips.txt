@@ -79,3 +79,6 @@
 66.29.133.226          # www.duxrib.xyz
 162.255.118.51         # eforward[1,3,5].registrar-servers.com MX duxrib.xyz
 162.255.118.52         # eforward[2,4].registrar-servers.com MX duxrib.xyz
+# HAEIBEK202503279000047
+91.215.216.18          # www.veigroupbg.com
+193.107.36.0/24        # spamexpert.host.bg
