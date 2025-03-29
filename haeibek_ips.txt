@@ -82,3 +82,5 @@
 # HAEIBEK202503279000047
 91.215.216.18          # www.veigroupbg.com
 193.107.36.0/24        # spamexpert.host.bg
+67.23.254.14           # talentrecruitments.com
+193.141.65.39          # mail.azmaplast.com
