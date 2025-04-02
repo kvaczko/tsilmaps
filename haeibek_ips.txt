@@ -84,3 +84,6 @@
 193.107.36.0/24        # spamexpert.host.bg
 67.23.254.14           # talentrecruitments.com
 193.141.65.39          # mail.azmaplast.com
+# HAEIBEK202503319000031
+69.49.232.23           # mail.steadfastlogistics.in
+193.141.65.39          # mail.azmaplast.com
