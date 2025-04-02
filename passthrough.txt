@@ -474,3 +474,7 @@
 95.173.188.157            # IRMA                                                 - NMHH
 3.67.25.49                # norelem.at                                           - CSABAcast
 18.157.197.5              # norelem.at                                           - CSABAcast
+172.67.218.214            # IRMA                                                 - NMHH
+104.21.53.210             # IRMA                                                 - NMHH
+195.56.193.185            # IRMA                                                 - NMHH
+109.199.61.243            # IRMA                                                 - NMHH
