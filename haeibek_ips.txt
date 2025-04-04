@@ -87,3 +87,24 @@
 # HAEIBEK202503319000031
 69.49.232.23           # mail.steadfastlogistics.in
 193.141.65.39          # mail.azmaplast.com
+# HAEIBEK202504019000073
+3.218.102.213          # doc.com
+34.232.147.67          # doc.com
+142.250.150.26         # alt1.aspmx.l.google.com
+142.251.9.26           # alt2.aspmx.l.google.com
+142.250.157.26         # alt3.aspmx.l.google.com
+173.194.202.27         # alt4.aspmx.l.google.com
+66.102.1.26            # aspmx.l.google.com
+76.76.21.61            # bellaterminal.app
+66.33.60.67            # bellaterminal.app
+150.95.255.38          # oceuv.autos
+162.255.118.67         # leaderstory.pro
+162.255.118.68         # leaderstory.pro
+162.255.118.51         # eforward1,3,5.registrar-servers.com
+162.255.118.52         # eforward2,4.registrar-servers.com
+23.227.38.65           # sugarandslice.shop
+129.226.51.231         # qianniuhua.vip
+203.161.60.161         # pureay.life
+69.49.232.23           # steadfastlogistics.in
+143.95.43.132          # baharmadencilik.com.tr
+31.7.33.254            # mail.baharmadencilik.com.tr
