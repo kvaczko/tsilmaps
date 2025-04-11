@@ -108,3 +108,28 @@
 69.49.232.23           # steadfastlogistics.in
 143.95.43.132          # baharmadencilik.com.tr
 31.7.33.254            # mail.baharmadencilik.com.tr
+# HAEIBEK202504§99000073
+104.21.48.1            # reallyfreegeoip.org
+104.21.112.1           # reallyfreegeoip.org
+104.21.32.1            # reallyfreegeoip.org
+104.21.96.1            # reallyfreegeoip.org
+104.21.80.1            # reallyfreegeoip.org
+104.21.16.1            # reallyfreegeoip.org
+104.21.64.1            # reallyfreegeoip.org
+# HAEIBEK202504099000051
+107.180.116.198        # mail.alnozha-qa.com
+# HAEIBEK202504049000069]
+193.222.96.222
+185.81.237.152         # webmail.bindchocolate.com
+188.114.97.10          # hottop-watches.com & jn.autterr.com
+188.114.96.10          # hottop-watches.com & jn.autterr.com
+# HAEIBEK202504029000039
+213.238.183.80         # ftp.dorasanat.com.tr
+92.204.80.0            # smtp.secureserver.net
+92.204.80.3            # mailstore1.secureserver.net
+# HAEIBEK202504019000073
+66.33.60.129           # bellaterminal.app
+76.76.21.93            # bellaterminal.app
+150.95.255.38          # oceuv.autos
+23.227.38.65           # sugarandslice.shop
+129.226.51.231         # qianniuhua.vip
