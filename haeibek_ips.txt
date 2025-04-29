@@ -149,3 +149,11 @@
 146.70.145.183
 5.180.52.2
 # HAEIBEK202504229000029
+66.29.155.201         # zieply.xyz
+216.10.250.139        # mail.protectorfiresafety.com
+132.226.247.73        # checkip.dyndns.org
+193.122.6.168         # checkip.dyndns.org
+158.101.44.242        # checkip.dyndns.org
+132.226.8.169         # checkip.dyndns.org
+193.122.130.0         # checkip.dyndns.org
+# HAEIBEK202504239000043
