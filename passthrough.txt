@@ -480,3 +480,4 @@
 109.199.61.243            # IRMA                                                 - NMHH
 #185.51.191.0/24           # tarhely.eu-sok                                       - CSABAcast
 185.51.188.33             # tarhely.eu                                           - CSABAcast
+79.139.62.205             # mx4.w5.hu MX deryneprogram.hu                        - BJC
