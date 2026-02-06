@@ -478,8 +478,9 @@
 104.21.53.210             # IRMA                                                 - NMHH
 195.56.193.185            # IRMA                                                 - NMHH
 109.199.61.243            # IRMA                                                 - NMHH
-#185.51.191.0/24           # tarhely.eu-sok                                       - CSABAcast
+#185.51.191.0/24          # tarhely.eu-sok                                       - CSABAcast
 185.51.188.33             # tarhely.eu                                           - CSABAcast
 79.139.62.205             # mx4.w5.hu MX deryneprogram.hu                        - BJC
 185.51.188.25             # lep.deryneprogram.hu                                 - BJC
-149.72.47.185            # cribwise - sendgrid                                   - RÁBA
+149.72.47.185             # cribwise - sendgrid                                  - RÁBA
+95.131.48.217             # toyoseat automata email                              - RÁBA
