@@ -490,3 +490,5 @@
 159.183.165.118           # fehrer - sendgriden keresztul                        - RÁBA
 45.13.137.8               # mailin1.amtindustry.sk                               - RÁBA
 45.13.137.9               # mailin2.amtindustry.sk                               - RÁBA
+45.13.137.110             # hksforge.sk email                                    - RÁBA
+45.13.137.109             # hksforge.sk email                                    - RÁBA
