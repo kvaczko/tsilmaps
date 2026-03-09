@@ -491,3 +491,8 @@
 45.13.137.8               # mailin1.amtindustry.sk                               - RÁBA
 45.13.137.9               # mailin2.amtindustry.sk                               - RÁBA
 45.13.137.0/24            # hksforge.sk email                                    - RÁBA
+65.39.216.37              # emailarray.com                                       - RABA
+65.39.216.91              # emailarray.com                                       - RABA
+65.39.216.41              # emailarray.com                                       - RABA
+65.39.216.12              # emailarray.com                                       - RABA
+65.39.216.33              # emailarray.com                                       - RABA
