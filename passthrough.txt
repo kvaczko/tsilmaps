@@ -503,4 +503,4 @@
 154.52.13.119             # dhl-com.fortimailcloud.com                           - RÁBA
 165.72.0.0/16             # dhl.com                                              - RÁBA
 199.40.0.0/15             # dhl.com                                              - RÁBA 
-
+194.36.124.45             # mail.processnet.hu - mx alfavill2000.hu              - RÁBA
