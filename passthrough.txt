@@ -507,3 +507,4 @@
 217.13.33.17              # mail.unitechnal.online                               - CSABAcast
 185.183.28.0/23           # szamlazas@culligan.hu                                - RÁBA
 185.132.180.0/24          # szamlazas@culligan.hu                                - RÁBA
+69.42.215.252             # freedns.afraid.org                                   - VK
