@@ -506,3 +506,4 @@
 194.36.124.45             # mail.processnet.hu - mx alfavill2000.hu              - RÁBA
 217.13.33.17              # mail.unitechnal.online                               - CSABAcast
 185.183.28.0/23           # szamlazas@culligan.hu                                - RÁBA
+185.132.180.0/24          # szamlazas@culligan.hu                                - RÁBA
